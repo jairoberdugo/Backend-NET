@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\models\\projectbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\models\\projectbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\episodes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\episodes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\episodes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\episodes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\characters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\characters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\characters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\characters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|c:\\users\\jberdugo\\documents\\c#projects\\projectback\\projectback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90DCEB59-A3DF-4A64-BAF7-7C341E04268D}|projectBack\\projectBack.csproj|solutionrelative:projectback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 268,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "projectBack\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\Location.cs",
+              "RelativeToolTip": "projectBack\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:31:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "projectBack\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "projectBack\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:31:06.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "projectBack\\Models\\Character.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\Character.cs",
+              "RelativeToolTip": "projectBack\\Models\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:24:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Episodes\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\Episodes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Episodes\\Index.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\Episodes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:23:26.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Episodes\\Create.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\Episodes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Episodes\\Create.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\Episodes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:23:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Characters\\Create.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\Characters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Characters\\Create.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\Characters\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:20:50.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:17:44.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:17:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:17:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EpisodesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Controllers\\EpisodesController.cs",
+              "RelativeDocumentMoniker": "projectBack\\Controllers\\EpisodesController.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Controllers\\EpisodesController.cs",
+              "RelativeToolTip": "projectBack\\Controllers\\EpisodesController.cs",
+              "ViewState": "AQIAABQAAADAzMzMzMwmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:01:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Characters\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\Characters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Characters\\Index.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\Characters\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:50:22.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projectBack\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projectBack\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T09:43:37.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CharactersController.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Controllers\\CharactersController.cs",
+              "RelativeDocumentMoniker": "projectBack\\Controllers\\CharactersController.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Controllers\\CharactersController.cs",
+              "RelativeToolTip": "projectBack\\Controllers\\CharactersController.cs",
+              "ViewState": "AQIAAAsAAABgNDMzMzM7wA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:42:24.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\appsettings.json",
+              "RelativeDocumentMoniker": "projectBack\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\appsettings.json",
+              "RelativeToolTip": "projectBack\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T09:18:35.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectbackContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\ProjectbackContext.cs",
+              "RelativeDocumentMoniker": "projectBack\\Models\\ProjectbackContext.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Models\\ProjectbackContext.cs",
+              "RelativeToolTip": "projectBack\\Models\\ProjectbackContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:13:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Program.cs",
+              "RelativeDocumentMoniker": "projectBack\\Program.cs",
+              "ToolTip": "C:\\Users\\Jberdugo\\Documents\\C#PROJECTS\\projectBack\\projectBack\\Program.cs",
+              "RelativeToolTip": "projectBack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T16:51:04.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
